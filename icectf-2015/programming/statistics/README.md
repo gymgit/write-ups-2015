@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [Nodraak](https://github.com/Nodraak)
+
 A attempt to connect to the serveur with `nc vuln2015.icec.tf 9000` output something like the following :
 
 ```bash
@@ -94,4 +96,4 @@ if __name__ == '__main__':
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/james9909/PracticeCTF/blob/master/IceCTF-2015/Statistics/Solution.py>

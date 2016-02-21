@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [fbonzon](https://github.com/fbonzon)
+
 We are given this image:
 
 <img src="zoomIn_3a3f6e35934021eca75b0abde70333a6.jpg" width="512" />
@@ -41,4 +43,4 @@ Finally, the flag reads `INS{MAGNIFICATION_X100_FOR_STARTERS}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies.pdf>

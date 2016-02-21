@@ -7,7 +7,11 @@
 
 > <http://static.challs.nuitduhack.com/Bpythonastic.tar.gz>
 
+[Alternative download](https://mega.nz/#!GE9x0A4K!2A-9Pc3DLOGPiu7cUSKnHIIs-l1PXJnaId0FOz_o92c)
+
 ## Write-up
+
+by [polym](https://github.com/abpolym)
 
 This writeup is based on a writeup by [capturetheswag](http://capturetheswag.blogspot.com.au/2015/04/nuit-du-hack-quals-2015-bpythonastic.html).
 

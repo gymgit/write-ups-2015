@@ -1,4 +1,4 @@
-# MMM-CTF-2015: welcome-10
+# MMA-CTF-2015: welcome-10
 
 **Category:** Misc
 **Points:** 10
@@ -10,7 +10,7 @@
 
 ## Write-up
 
-(TODO)
+See description.
 
 ## Other write-ups and resources
 

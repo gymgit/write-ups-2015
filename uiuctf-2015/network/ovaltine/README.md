@@ -7,7 +7,11 @@
 
 > NETWORK: Welcome to the 1337 LOASS...Ralphie!. [ovaltine.7z](https://ctf.acm.illinois.edu/archive/ovaltine.7z)
 
+[Alternative download](https://mega.nz/#!PFkQSYpS!BQvz21HiSf5_4lo9ywWhAMlRPwitN-2Cv1BrhOEqB5k)
+
 ## Write-up
+
+by [bobbyblues](https://github.com/bobbyblues)
 
 The challenge consists in a pcap file containing network traffic.
 Most of it is encrypted, but a few TCP streams are here, and we quickly find emails exchanged about joining the Little Orphan Annie fanclub.

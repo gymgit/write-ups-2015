@@ -17,4 +17,8 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](http://bobao.360.cn/ctf/detail/155.html)
+* [Chinese](http://roisfzu.org/static/rctf2015-writeup.pdf)
+* <http://blog.albertchang.cn/wp-content/uploads/2015/11/Nu1L_RCTF_Writeup.pdf>
+* <http://pastebin.com/dykTGSJN>
+* <http://pastebin.com/GPtxi3yG>

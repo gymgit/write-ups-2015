@@ -1,4 +1,4 @@
-# MMM-CTF-2015: nogaya-castle-100
+# MMA-CTF-2015: nogaya-castle-100
 
 **Category:** Stego
 **Points:** 100
@@ -11,6 +11,8 @@
 
 
 ## Write-up
+
+by [polym](https://github.com/abpolym)
 
 We are given a PNG that we open with `stegsolve` to find the flag in the RGB plane 0 values:
 

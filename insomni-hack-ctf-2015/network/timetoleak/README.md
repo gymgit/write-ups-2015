@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [antoinet](https://github.com/antoinet)
+
 The pcap file contains 22 packets of IP/ICMP traffic in which host
 10.13.37.206 is ping'ed. The host selectively replies to echo requests.
 The echo requests have varying TTL values in the domain of printable
@@ -29,4 +31,4 @@ again from the beginning. The resulting flag is:
 
 ## Other write-ups and resources
 
-* timetoleak_6b4a37c1ec58d7d49e5d636b063ad3b6.pcapng
+* <http://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies.pdf>

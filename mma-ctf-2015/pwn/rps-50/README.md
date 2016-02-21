@@ -1,4 +1,4 @@
-# MMM-CTF-2015: RPS
+# MMA-CTF-2015: RPS
 
 **Category:** Pwn
 **Points:** 50
@@ -12,6 +12,8 @@
 > [rps.7z](rps.7z-5c18b372802c14abfec93c81a2cfdc5bac7f5aeeb16ad7404aace7ae25591c6e)
 
 ## Write-up
+
+by [polym](https://github.com/abpolym)
 
 This writeup is based on following writeups:
 

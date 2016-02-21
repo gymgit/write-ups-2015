@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a pcap traffic dump.
 The description hints that we should login into <http://web2015.icec.tf/sharknado> using credentials that we have to search for in the given pcap.
 
@@ -28,3 +30,5 @@ Using these credentials, we login to the website to find the flag, `flag_damn_th
 ## Other write-ups and resources
 
 * <http://blog.oleaass.com/ctf-icectf-trivials-writeup/>
+* <http://73696e65.github.io/blog/2015/08/24/icec-dot-tf-writeup/>
+* <https://github.com/james9909/PracticeCTF/blob/master/IceCTF-2015/SHARKNADO!/Solution.txt>

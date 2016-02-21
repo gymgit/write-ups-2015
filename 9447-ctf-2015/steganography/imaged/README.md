@@ -7,10 +7,12 @@
 
 > Our spies found this image. They think something is hidden in it... what could it be?
 >
-> [imaged.zip](./imaged-384077bcc914fd7a2a5afd60c4e4874e.zip)  384077bcc914fd7a2a5afd60c4e4874e
+> [imaged.zip](https://mega.nz/#!KYEDhCxT!-ds4cnfwADzH0JxHiokiFXTFSxqddsRqaPmP86ZXDcE)  384077bcc914fd7a2a5afd60c4e4874e
 
 
 ## Write-up
+
+by [stefan2904](https://github.com/stefan2904)
 
 After looking at the provided PNG file with the Hex Editor of our choice, we spotted the sequence *9447*, indicating the start of a flag. Furthermore, we noticed flag-like ascii-characters close to the headers of *IDAT* chunks. (To be precise: the flag-parts were the CRC checksum of the *IDAT* chunks.)
 

@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is loosely based on following writeups:
 
 * <https://ctf-team.vulnhub.com/csaw-quals-2015-precision/>
@@ -134,3 +136,4 @@ If you need more information or futher clarification, read the other writeups, l
 * <http://blog.isis.poly.edu/2015/09/28/csaw-ctf-precision.html>
 * <https://github.com/ByteBandits/writeups/blob/master/csaw-quals-2015/pwn/precision/sudhackar/README.md>
 * <https://www.youtube.com/watch?v=0TWlW5MBnKE>
+* <https://github.com/aweinstock314/aweinstock-ctf-writeups/blob/master/csaw_quals_2015/pwn100_precision_sploit.py>

@@ -21,4 +21,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/aweinstock314/aweinstock-ctf-writeups/blob/master/csaw_quals_2015/pwn500_rhinoxorous_sploit.py>
+* [Polish](https://github.com/p4-team/ctf/blob/master/2015-09-16-csaw/pwn_500_rhinoxorus/README.md)
+* [Korean](http://yum3.tistory.com/40)

@@ -1,4 +1,4 @@
-# MMM-CTF-2015: miyako-350
+# MMA-CTF-2015: miyako-350
 
 **Category:**  Stego
 **Points:** 350
@@ -11,6 +11,8 @@
 
 
 ## Write-up
+
+by [polym](https://github.com/abpolym)
 
 This writeup is based on a writeup by [khack40](http://khack40.info/mma-ctf-2015-miyako-stega-write-up/).
 

@@ -1,4 +1,4 @@
-# MMM-CTF-2015: d3flate-500
+# MMA-CTF-2015: d3flate-500
 
 **Category:** Pwn
 **Points:** 500
@@ -22,4 +22,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pizza.abusers.eu/ctf/mmactf-2015/d3flate/>
+* <http://pastebin.com/DDUG2iJT>

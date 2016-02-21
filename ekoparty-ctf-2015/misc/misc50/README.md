@@ -16,4 +16,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/pcchou/ctf-writeups/tree/master/2015/ekoparty/misc50>
+* <https://research.g0blin.co.uk/ekoparty-ctf-2015-writeups/#misc50-olive>
+* <https://0x90r00t.com/2015/10/24/ekoparty-part-2-2015-misc50-olive-write-up/>

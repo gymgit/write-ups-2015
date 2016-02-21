@@ -9,8 +9,12 @@
 > 
 > [sunrise.zip](https://github.com/SECCON/SECCON2015_online_CTF/blob/master/Stegano/100_Steganography%202/sunrise.zip)
 
+[Alternative download](https://mega.nz/#!KEtT2DDB!2-6CgeI_prJAtxejPjQduHlvbhHUtk7qANT1Rnlcyp0)
+
 
 ## Write-up
+
+by [polym](https://github.com/abpolym)
 
 Inside the zip is a png that we check with `pngcheck`, `exiftool` and steganography tools such as `stegsolve` for any inconsistencies, hints or the flag itself.
 

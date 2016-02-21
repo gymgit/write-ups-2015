@@ -1,4 +1,4 @@
-# MMM-CTF-2015: stream
+# MMA-CTF-2015: stream
 
 **Category:** Forensics
 **Points:** 100
@@ -8,6 +8,8 @@
 > [stream](stream-ae909d8550c45e47b3c888c3c35ce5a6699de5390968e91b53a718d73c237718)
 
 ## Write-up
+
+by [polym](https://github.com/abpolym)
 
 This writeup is based on following writeups:
 

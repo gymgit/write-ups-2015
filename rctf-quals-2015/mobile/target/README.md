@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](http://drops.wooyun.org/mobile/10557)
+* [Chinese](http://roisfzu.org/static/rctf2015-writeup.pdf)

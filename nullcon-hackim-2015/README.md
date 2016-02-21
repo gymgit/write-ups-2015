@@ -6,14 +6,15 @@
 ## Completed write-ups
 
 * [crypto-1](crypto-1)
+* [crypto-2](crypto-2)
 * [exploit-1](exploit-1)
+* [exploit-2](exploit-2)
 * [forensics-4](forensics-4)
 * [programming-2](programming-2)
 * [web-5](web-5)
 
 ## External write-ups only
 
-* [exploit-2](exploit-2)
 * [exploit-3](exploit-3)
 * [exploit-4](exploit-4)
 * [exploit-5](exploit-5)
@@ -29,6 +30,7 @@
 * [reversing-4](reversing-4)
 * [reversing-5](reversing-5)
 * [trivia-1](trivia-1)
+* [trivia-2](trivia-2)
 * [trivia-3](trivia-3)
 * [trivia-4](trivia-4)
 * [trivia-5](trivia-5)
@@ -38,7 +40,6 @@
 
 ## Missing write-ups
 
-* [crypto-2](crypto-2)
 * [crypto-3](crypto-3)
 * [crypto-4](crypto-4)
 * [crypto-5](crypto-5)
@@ -47,5 +48,4 @@
 * [programming-4](programming-4)
 * [programming-5](programming-5)
 * [reversing-3](reversing-3)
-* [trivia-2](trivia-2)
 * [web-2](web-2)

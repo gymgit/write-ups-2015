@@ -1,4 +1,4 @@
-# MMM-CTF-2015: Splitted
+# MMA-CTF-2015: Splitted
 
 **Category:** Forensics
 **Points:** 30
@@ -8,6 +8,8 @@
 > [splitted.7z](splitted.7z-68ad844f2aab26d3d358ae9fa6c598a2727b0c0056567a288ffcd9414229121c)
 
 ## Write-up
+
+by [polym](https://github.com/abpolym)
 
 We are given a 7z zip archive that we first extract using `7z x splitted*.7z -oout`.
 After extraction, we find a tcpdump capture file inside it:

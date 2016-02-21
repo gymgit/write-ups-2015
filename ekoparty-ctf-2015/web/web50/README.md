@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://en.internetwache.org/ekoparty-ctf-2015-writeups-24-10-2015/>
+* <https://research.g0blin.co.uk/ekoparty-ctf-2015-writeups/#web50-pass-check>

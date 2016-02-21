@@ -11,7 +11,7 @@
 >
 > Download: [dump.vmem](https://drive.google.com/file/d/0B_zt1fDAjfM_Zy1YZFhkQkg4NTg/view?usp=sharing)
 
-> Mirror: [dump.vmem Mega.nz Mirror](https://mega.nz/#!fAlADbbb)
+> Mirror: [dump.vmem Mega.nz Mirror](https://mega.nz/#!fAlADbbb!HZhaTzhBkJd7z8KFECTdYnXY8pkbocb4NjCbFCLwRrg)
 >
 > md5(dump.vmem): 019f6d29f6e3f6f0443eea39c2b74a30
 >
@@ -21,6 +21,8 @@
 
 
 ## Write-up
+
+by [polym](https://github.com/abpolym)
 
 This writeup is based on following writeups:
 
